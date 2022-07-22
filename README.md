@@ -17,7 +17,7 @@ Additionally, all of the colors you'll need are indexed in `constants.js`.
 
 All components in this project use [the `Roboto` font](https://fonts.google.com/specimen/Roboto). This font is already included in the Storybook environment, and is already applied to all elements. It comes in two weights:
 
-- 400 (default)
+- 400 (default)x
 - 700 (bold)
 
 ## Running Storybook
